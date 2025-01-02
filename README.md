@@ -9,6 +9,6 @@
 
 ## Todos
 
-[ ] form to add / update / delete projects, features and endpoints
-[ ] global search for both feature / endpoint across all projects
-[ ] 1 diagram to show all projects and feature dependencies
+- [ ] form to add / update / delete projects, features and endpoints
+- [ ] global search for both feature / endpoint across all projects
+- [ ] 1 diagram to show all projects and feature dependencies
